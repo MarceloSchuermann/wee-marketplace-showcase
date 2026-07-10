@@ -10,7 +10,7 @@
   [![MySQL](https://img.shields.io/badge/MySQL-Database-111111?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
   [![Responsive](https://img.shields.io/badge/UI-Responsiva-C9962B?style=flat-square)](#experiencia)
 
-  [Ver demonstração online](https://azure-elephant-481277.hostingersite.com/)
+  [Ver demonstração online](https://chamanowee.com.br/)
 </div>
 
 > Este repositório é exclusivamente um showcase. O código-fonte, as configurações de produção e os dados da plataforma são privados.
